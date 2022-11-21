@@ -21,13 +21,13 @@ const NewProduct = () => {
     const [imagenPreview, setImagenPreview] = useState([])
 
     const categorias = [
-        "Alimento seco",
-        "Alimento humedo",
+        "Zapatillas Adulto Hombre",
+        "Zapatillas Adulto Mujer",
+        "Zapatillas Adulto Niño",
+        "Zapatillas Adulto Niña",
         "Accesorios",
-        "Cuidado e Higiene",
-        "Medicamentos",
-        "Snacks",
-        "Juguetes"
+        "Zapatillas Verano",
+        "Zapatillas Invierno."
     ]
 
     const alert = useAlert();
