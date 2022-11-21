@@ -38,13 +38,13 @@ const productosSchema=mongoose.Schema({
         required:[true,"Por favor seleccione la categoria del producto."],
         enum:{
             values:[
-                "Zapatillas Adulto Hombre",
-                "Zapatillas Adulto Mujer",
-                "Zapatillas Adulto Niño",
-                "Zapatillas Adulto Niña",
+                "Alimento seco",
+                "Alimento humedo",
                 "Accesorios",
-                "Zapatillas Verano",
-                "Zapatillas Invierno."
+                "Cuidado e Higiene",
+                "Medicamentos",
+                "Snacks",
+                "Juguetes"
             ]
         }
     },
