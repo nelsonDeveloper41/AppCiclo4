@@ -1,7 +1,7 @@
 {
   "name": "vetyshop",
   "version": "1.0.0",
-  "description": "Tienda virtual de productos para mascotas",
+  "description": "Tienda virtual de productos deportivos",
   "main": "server.js",
   "scripts": {
     "start": "node back/server.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OZZYTA/VetyShop.git"
+    "url": "git+https://github.com/nelsonDeveloper41/AppCiclo4.git"
   },
-  "author": "Natali Velasquez",
+  "author": "Nelson Rodriguez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OZZYTA/VetyShop/issues"
+    "url": "https://github.com/nelsonDeveloper41/AppCiclo4/issues"
   },
-  "homepage": "https://github.com/OZZYTA/VetyShop#readme",
+  "homepage": "https://github.com/nelsonDeveloper41/AppCiclo4#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.1",
