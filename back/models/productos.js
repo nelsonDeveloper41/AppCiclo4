@@ -44,7 +44,7 @@ const productosSchema=mongoose.Schema({
                 "Zapatillas Adulto Niña",
                 "Accesorios",
                 "Zapatillas Verano",
-                "Zapatillas Invierno"
+                "Zapatillas Invierno."
             ]
         }
     },
